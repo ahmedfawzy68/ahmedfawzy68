@@ -7,8 +7,11 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20.NET%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
-</p> 
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Expert%20in%20Angular%2C%20React%2C%20Next.js;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=50&color=0FAF9C&vCenter=true&size=22">
+  </a>
+</p>
+
 
 - 🏢 I'm a Front-End Developer specializing in Angular, React, and Next.js.
 - 👨‍💻 I’m always learning and exploring new technologies to enhance my skills.
